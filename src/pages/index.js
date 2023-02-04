@@ -21,10 +21,11 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
+        <p>Welcome to your EFT Blog.</p>
         <p>
         EFT, also known as Emotional Freedom Technique, is a psychological acupressure method used to treat negative emotions and physical symptoms. It has gained popularity in recent years as a simple and effective self-help tool for managing stress, anxiety, and trauma.
         </p>
+        <p>ACCESS THE APP: <a href="http://app.eft-technique.com.br/">CLICK HERE</a></p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>
