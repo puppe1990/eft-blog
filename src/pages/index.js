@@ -7,7 +7,7 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Gatsby Starter Personal Website"
+    const siteTitle = "EFT Blog"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -15,7 +15,6 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
         <h1>
           Hey people{" "}
           <span role="img" aria-label="wave emoji">
@@ -24,10 +23,8 @@ class IndexPage extends React.Component {
         </h1>
         <p>Welcome to your new Gatsby website. You are on your home page.</p>
         <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
+        EFT, also known as Emotional Freedom Technique, is a psychological acupressure method used to treat negative emotions and physical symptoms. It has gained popularity in recent years as a simple and effective self-help tool for managing stress, anxiety, and trauma.
         </p>
-        <p>Now go build something great!</p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>
