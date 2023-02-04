@@ -1,1 +1,0 @@
-module.exports = require("/home/matheuspuppe/Desktop/github/eft-blog/src/utils/typography")
