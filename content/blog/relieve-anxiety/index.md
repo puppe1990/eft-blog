@@ -44,4 +44,4 @@ Finally, the app includes a directory of EFT practitioners, allowing users to qu
 
 Overall, the aim of the app is to provide users with a comprehensive resource on EFT, enabling them to learn more about the technique, access quality information about it, and find an experienced practitioner in their area.
 
-## ACCESS THE APP HERE: http://app.eft-technique.com.br/
+## ACCESS THE APP HERE: https://app.eft-technique.com.br/
