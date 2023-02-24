@@ -1,6 +1,6 @@
 ---
 title:  "How to Use EFT to Manage Anxiety: A Step-by-Step Guide."
-date: "2022-02-24T00:00:00.000Z"
+date: "2022-02-24T22:33:03.284Z"
 ---
 
 Anxiety is a common experience for many people, and it can be overwhelming and debilitating. Fortunately, there are many techniques that can help manage anxiety, and one of the most effective and accessible is Emotional Freedom Technique (EFT), also known as tapping. EFT is a simple and powerful tool that can help alleviate anxiety symptoms quickly and easily. In this post, we will walk you through a step-by-step guide on how to use EFT to manage anxiety.
