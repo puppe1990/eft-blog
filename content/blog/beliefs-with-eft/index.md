@@ -1,5 +1,5 @@
 ---
-title:  "Overcoming Limiting Beliefs with EFT".
+title: "Overcoming Limiting Beliefs with EFT"
 date: "2022-02-27T22:33:03.284Z"
 ---
 
