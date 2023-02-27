@@ -45,7 +45,8 @@ I am choosing to relax and let go of all negative feelings.
 I am calm, centered, and in control.
 
 2. Tapping Routine for Anxiety Relief
-   This tapping routine is designed specifically to help relieve anxiety. It can be used when you're feeling anxious, overwhelmed, or worried.
+
+This tapping routine is designed specifically to help relieve anxiety. It can be used when you're feeling anxious, overwhelmed, or worried.
 
 ### Karate Chop Point:
 
@@ -84,7 +85,8 @@ I am choosing to feel peaceful and relaxed.
 I am calm, centered, and at peace.
 
 3. Tapping Routine for Stressful Situations
-   This tapping routine is designed to help you manage stress during a specific situation, such as a job interview, public speaking, or a difficult conversation.
+
+This tapping routine is designed to help you manage stress during a specific situation, such as a job interview, public speaking, or a difficult conversation.
 
 ### Karate Chop Point:
 
